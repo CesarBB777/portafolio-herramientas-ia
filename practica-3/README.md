@@ -178,9 +178,15 @@ grabaciones en el repositorio. ]
 
 
 
+
+
+
 &#x20;
 
 
 
 \## 5. Evidencia
+
+<img width="658" height="404" alt="Captura de pantalla 2026-10-29 083137" src="https://github.com/user-attachments/assets/f70ecbd0-84be-4e37-bd0e-b35e4ec49ebe" />
+<img width="654" height="379" alt="Captura de pantalla 2026-10-29 083009" src="https://github.com/user-attachments/assets/780ca020-0a24-4709-96d3-bbd94729165d" />
 
