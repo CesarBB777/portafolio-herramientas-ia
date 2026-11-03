@@ -190,6 +190,11 @@ grabaciones en el repositorio. ]
 <img width="654" height="379" alt="Captura de pantalla 2026-10-29 083009" src="https://github.com/user-attachments/assets/780ca020-0a24-4709-96d3-bbd94729165d" />
 
 
+## Practica Colab
+[Colab Practica](https://colab.research.google.com/drive/15pVjm_g5QJHNQulpmM4CSLMgKtssH49O?usp=sharing)
+
+
+
 ## LInk Equipo:
 [Portafolio Equipo](https://github.com/M4zapan77/equipo1_GeneradorClips)
 
